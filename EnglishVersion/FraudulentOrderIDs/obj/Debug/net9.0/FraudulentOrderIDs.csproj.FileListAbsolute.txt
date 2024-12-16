@@ -1,0 +1,15 @@
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\bin\Debug\net9.0\FraudulentOrderIDs.exe
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\bin\Debug\net9.0\FraudulentOrderIDs.deps.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\bin\Debug\net9.0\FraudulentOrderIDs.runtimeconfig.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\bin\Debug\net9.0\FraudulentOrderIDs.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\bin\Debug\net9.0\FraudulentOrderIDs.pdb
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.AssemblyInfoInputs.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.AssemblyInfo.cs
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.sourcelink.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\refint\FraudulentOrderIDs.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.pdb
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\FraudulentOrderIDs.genruntimeconfig.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\FraudulentOrderIDs\obj\Debug\net9.0\ref\FraudulentOrderIDs.dll
