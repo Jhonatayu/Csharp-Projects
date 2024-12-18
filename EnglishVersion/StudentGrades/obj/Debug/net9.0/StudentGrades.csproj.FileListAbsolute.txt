@@ -1,0 +1,15 @@
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\bin\Debug\net9.0\StudentGrades.exe
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\bin\Debug\net9.0\StudentGrades.deps.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\bin\Debug\net9.0\StudentGrades.runtimeconfig.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\bin\Debug\net9.0\StudentGrades.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\bin\Debug\net9.0\StudentGrades.pdb
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfoInputs.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfo.cs
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.sourcelink.json
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\refint\StudentGrades.dll
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.pdb
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\StudentGrades.genruntimeconfig.cache
+D:\CsharpProjects\Csharp-Projects\EnglishVersion\StudentGrades\obj\Debug\net9.0\ref\StudentGrades.dll
