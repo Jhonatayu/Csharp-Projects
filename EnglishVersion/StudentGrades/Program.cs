@@ -22,25 +22,34 @@ Console.WriteLine("Student\t\tGrade\n");
 foreach (string name in studentNames){
     string currentStudent = name;
 
-    if (currentStudent =="Sophia")
-        studentScores = sophiaScores;
-    else if (currentStudent =="Andrew")
-        studentScores = andrewScores;
-    else if (currentStudent =="Emma")
-        studentScores = emmaScores;
-    else if (currentStudent =="Logan")
-        studentScores = loganScores;
-    else if (currentStudent == "Becky")
-        studentScores = beckyScores;
-    else if (currentStudent == "Chris")
-        studentScores = chrisScores;
-    else if (currentStudent == "Eric")
-        studentScores = ericScores;
-    else if (currentStudent == "Gregor")
-        studentScores = gregorScores;
-    else
-        continue;
-
+    switch (currentStudent){
+        case "Sophia":
+            studentScores = sophiaScores;
+            break;
+        case "Andrew":
+            studentScores = andrewScores;
+            break;
+        case "Emma":
+            studentScores = emmaScores;
+            break;
+        case "Logan":
+            studentScores = loganScores;
+            break;
+        case "Becky":
+            studentScores = beckyScores;
+            break;
+        case "Chris":
+            studentScores = chrisScores;
+            break;
+        case "Eric":
+            studentScores = ericScores;
+            break;
+        case "Gregor":
+            studentScores = gregorScores;
+            break;
+        default:
+            continue;
+    }
 
         // Initialize/reset the sum of scored assignments
         int sumAssignmentScores = 0;
@@ -67,32 +76,47 @@ foreach (string name in studentNames){
         
         currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
 
-        if (currentStudentGrade >= 97)
-            currentStudentLetterGrade = "A+";
-        else if (currentStudentGrade >= 93)
-            currentStudentLetterGrade = "A";
-        else if (currentStudentGrade >= 90)
-            currentStudentLetterGrade = "A-";
-        else if (currentStudentGrade >= 87)
-            currentStudentLetterGrade = "B+";
-        else if (currentStudentGrade >= 83)
-            currentStudentLetterGrade = "B";
-        else if (currentStudentGrade >= 80)
-            currentStudentLetterGrade = "B-";
-        else if (currentStudentGrade >= 77)
-            currentStudentLetterGrade = "C+";
-        else if (currentStudentGrade >= 73)
-            currentStudentLetterGrade = "C";
-        else if (currentStudentGrade >= 70)
-            currentStudentLetterGrade = "C-";
-        else if (currentStudentGrade >= 67)
-            currentStudentLetterGrade = "D+";
-        else if (currentStudentGrade >= 63)
-            currentStudentLetterGrade = "D";
-        else if (currentStudentGrade >= 60)
-            currentStudentLetterGrade = "D-";
-        else if (currentStudentGrade < 60)
-            currentStudentLetterGrade = "F";
+        switch (currentStudentGrade){
+            case >= 97:
+                currentStudentLetterGrade = "A+";
+                break;
+            case >= 93:
+                currentStudentLetterGrade = "A";
+                break;
+            case >= 90:
+                currentStudentLetterGrade = "A-";
+                break;
+            case >= 87:
+                currentStudentLetterGrade = "B+";
+                break;
+            case >= 83:
+                currentStudentLetterGrade = "B";
+                break;
+            case >= 80:
+                currentStudentLetterGrade = "B-";
+                break;
+            case >= 77:
+                currentStudentLetterGrade = "C+";
+                break;
+            case >= 73:
+                currentStudentLetterGrade = "C";
+                break;
+            case >= 70:
+                currentStudentLetterGrade = "C-";
+                break;
+            case >= 67:
+                currentStudentLetterGrade = "D+";
+                break;
+            case >= 63:
+                currentStudentLetterGrade = "D";
+                break;
+            case >= 60:
+                currentStudentLetterGrade = "D-";
+                break;
+            default:
+                currentStudentLetterGrade = "F";
+                continue;
+            }
 
         Console.WriteLine($"{currentStudent}:\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
 }
