@@ -1,0 +1,14 @@
+D:\VS CODE\CsharpTestes\Funcoes\bin\Debug\net8.0\Funcoes.exe
+D:\VS CODE\CsharpTestes\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+D:\VS CODE\CsharpTestes\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+D:\VS CODE\CsharpTestes\Funcoes\bin\Debug\net8.0\Funcoes.dll
+D:\VS CODE\CsharpTestes\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.dll
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+D:\VS CODE\CsharpTestes\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll
